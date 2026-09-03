@@ -4,9 +4,11 @@ Gerado/atualizado pelo job de monitoramento do blog. Cada rodada nova acrescenta
 
 **Status: backlog completo — 1027/1027 posts do blog checados (03/09/2026).**
 
+**Atualização 03/09/2026 15h19 UTC:** os 27 abaixo (arquitetos-vendedores achou 29, 2 a mais que meu filtro pegou) tiveram `featured_media` setado no WordPress via casamento por palavra-chave contra foto real do Instagram já aprovada (mesmo método usado no fix de agosto). **Ainda NÃO aparece no site público** — confirmado via recheck ao vivo: site é build estático (Astro) que só reflete mudança do WordPress no próximo rebuild automático (~04h BRT). O fix de agosto (30 posts) já apareceu certo depois de 2-3 passadas do rebuild, então o padrão funciona — só falta a próxima rodada pegar os de hoje. Reconferir a partir de 04/09 manhã antes de marcar como resolvido de verdade.
+
 ## Sem foto de capa (27)
 
-Post existe e publica normal, mas não tem `twitter:image` (imagem de capa/compartilhamento) definida. Precisa entrar no WordPress e definir a imagem destacada do post.
+Post existe e publica normal, mas não tem `twitter:image` (imagem de capa/compartilhamento) definida. Backend já corrigido (ver nota acima) — pendente só o rebuild do site refletir.
 
 - [ ] **Como comprar um sofá em couro para sala de estar.**
   - URL: https://blog.fratellihouse.com.br/sofa-em-couro-3/
