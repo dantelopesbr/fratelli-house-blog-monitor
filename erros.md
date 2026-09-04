@@ -18,6 +18,8 @@ O título da página é uma mensagem de erro/recusa vazada de IA. Cover já corr
   - URL: https://blog.fratellihouse.com.br/legenda-instagram/
   - Achado em: 2026-09-03
 
+**Atualização 04/09/2026:** conteúdo inteiro regenerado (título/texto estavam corrompidos, IA tinha rodado em cima da própria recusa como se fosse tema). Causa raiz corrigida no workflow. Aguardando rebuild de amanhã pra confirmar ao vivo antes de marcar resolvido.
+
 ## URL no sitemap mas página não existe — 404 (0)
 
 (nenhum pendente)
