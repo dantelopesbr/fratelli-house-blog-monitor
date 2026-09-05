@@ -1508,11 +1508,12 @@
     "checado_em": "2026-09-03"
   },
   "https://blog.fratellihouse.com.br/legenda-instagram/": {
-    "titulo": "Peço desculpas, mas não há uma legenda fornecida para trabalhar. Por favor, forneça a legenda de Instagram para que eu possa transformá-la em um título altamente otimizado para SEO.",
-    "tem_capa": false,
+    "titulo": "Como escolher entre os diferentes modelos de poltronas para sua sala",
+    "tem_capa": true,
     "checado_em": "2026-09-03",
-    "tipo_erro": "titulo_quebrado",
-    "nota": "Title da pagina e uma mensagem de erro/recusa de IA vazada (\"Peco desculpas, mas nao ha uma legenda fornecida...\") - falha na geracao de conteudo, titulo real nunca foi gerado"
+    "tipo_erro": null,
+    "nota": "titulo+conteudo regenerados do zero (o post inteiro tinha corrompido), foto nova - confirmado ao vivo apos rebuild",
+    "corrigido_em": "2026-09-05"
   },
   "https://blog.fratellihouse.com.br/poltrona-sala-estar-5/": {
     "titulo": "Como escolher a melhor poltrona para a sala de estar.",
